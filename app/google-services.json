@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747483832920",
+    "project_id": "examen3parcialdennis",
+    "storage_bucket": "examen3parcialdennis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747483832920:android:8da6407d6333a1fae4602d",
+        "android_client_info": {
+          "package_name": "com.example.examenparcial3dennis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoQRtd-4JmnGpNqLPnGSxeMoZH2TN9vHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
